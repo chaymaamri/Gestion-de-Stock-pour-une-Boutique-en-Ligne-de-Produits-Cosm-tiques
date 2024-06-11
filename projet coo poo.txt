@@ -1,0 +1,12 @@
+Description du Projet : Gestion de Stock pour une Boutique en Ligne de Produits Cosmétiques
+
+Ce projet vise à créer un système de gestion de stock pour une boutique en ligne spécialisée 
+dans la vente de produits cosmétiques. Il offre une solution complète pour la gestion des produits, des fournisseurs, 
+des stocks, des clients et des commandes.
+
+Le système permet à l'administrateur de gérer l'ensemble de la plateforme. 
+Il peut effectuer des opérations de gestion sur les produits, les fournisseurs, les stocks,
+ les clients et les commandes. 
+Les fournisseurs peuvent ajouter de nouveaux produits au catalogue et consulter la liste des produits disponibles.
+ Les clients ont la possibilité de passer des commandes, 
+d'annuler des commandes existantes et de consulter leur historique de commandes.
